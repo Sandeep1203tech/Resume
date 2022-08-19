@@ -1,4 +1,3 @@
-const html2pdfBundleMin = require("./html2pdf.bundle.min")
 
 /*==================== SHOW MENU ====================*/
 const showMenu = (toggleId, navId) =>{
